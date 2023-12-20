@@ -1,2 +1,2 @@
 # IOI
-To explain the funciton of git hub
+To explain the funtion of git hub
